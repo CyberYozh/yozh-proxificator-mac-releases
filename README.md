@@ -2,8 +2,8 @@
 
 <!-- Delete this comment and the paragraph "Before version 1.0.0" under it when 1.0.0 is published. -->
 
-**Before version 1.0.0.** There is no public release yet: GitHub marks no release here as "Latest", and the download
-link below does not work yet. Test builds are in the pre-release
+**Before version 1.0.0.** There is no public release yet, so the download link below does not work yet; until then
+GitHub shows the update feed as the latest release. Test builds are in the pre-release
 [acceptance](https://github.com/CyberYozh/yozh-proxificator-mac-releases/releases/tag/acceptance); they are for testing,
 not for general use. Download the newest image from it, `YozhProxificator-X.Y.Z.dmg`.
 
